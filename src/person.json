@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name":"Swastik",
+        "rollno": 23,
+        "newp": [
+            {
+                "person1": "Da"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Devanshu",
+        "rollno": 24,
+        "newp": [
+            {
+                "person1": "Dayma"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"Sharif",
+        "rollno": 25,
+        "newp": [
+            {
+                "person1": "dayma"
+            }
+        ]
+    }
+  
+]
+
+

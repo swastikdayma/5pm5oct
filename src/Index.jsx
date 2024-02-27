@@ -1,8 +1,11 @@
-function Index() {
-    return ( <>
+import Nav from "./Nav.jsx";
 
-        <h1>hello</h1>
-        <h2>class</h2>
+function Index(props) {
+
+    return ( <>
+        <h1>Hello World!</h1>
+        <h2>{props.name}</h2>
+      <Nav/>
     </> );
 }
 
